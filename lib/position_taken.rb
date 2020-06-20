@@ -5,6 +5,6 @@ index = 0
 
 def position_taken?(board, index)
   if board == " " || board == ""
-    FALSE
+    puts FALSE
   end
 end
